@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwordOffer_Algorithms", "SwordOffer_Algorithms\SwordOffer_Algorithms.vcxproj", "{012F7A15-182B-4E99-8917-2317BCA7E515}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest4SwordOffer", "GoogleTest\GoogleTest4SwordOffer\GoogleTest4SwordOffer.vcxproj", "{636F6639-E24E-43DB-B9A0-389379344EB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{012F7A15-182B-4E99-8917-2317BCA7E515}.Release|x64.Build.0 = Release|x64
 		{012F7A15-182B-4E99-8917-2317BCA7E515}.Release|x86.ActiveCfg = Release|Win32
 		{012F7A15-182B-4E99-8917-2317BCA7E515}.Release|x86.Build.0 = Release|Win32
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Debug|x64.ActiveCfg = Debug|x64
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Debug|x64.Build.0 = Debug|x64
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Debug|x86.ActiveCfg = Debug|Win32
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Debug|x86.Build.0 = Debug|Win32
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Release|x64.ActiveCfg = Release|x64
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Release|x64.Build.0 = Release|x64
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Release|x86.ActiveCfg = Release|Win32
+		{636F6639-E24E-43DB-B9A0-389379344EB4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
